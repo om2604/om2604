@@ -51,16 +51,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" alt="GitHub streak" height="160"/>
-
-</div>
-
----
 
 ### 💬 Let’s Connect
 
